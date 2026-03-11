@@ -1,5 +1,5 @@
 # (SCTP) Advanced Professional Certificate in Data Science and AI - Technical Assessment
-## Problems
+## question and answers
 answers to the problems are updated in the following `.py` files:
 
 - [Question 1](./src/q1.py)
